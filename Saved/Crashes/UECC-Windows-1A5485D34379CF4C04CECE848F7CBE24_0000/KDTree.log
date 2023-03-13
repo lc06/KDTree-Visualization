@@ -1,0 +1,1472 @@
+﻿Log file open, 08/01/22 20:12:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=2348)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: KDTree
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "E:/UE Projects/KDTree/KDTree/KDTree.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1826] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="36694ce74c1fe3f5f79ea3887bd58b5a"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.401007
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-1A5485D34379CF4C04CECE848F7CBE24
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.06 seconds
+LogConfig: Display: Loading IOS ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading Linux ini files took 0.09 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogConfig: Display: Loading LinuxArm64 ini files took 0.11 seconds
+LogConfig: Display: Loading Mac ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogConfig: Display: Loading TVOS ini files took 0.08 seconds
+LogConfig: Display: Loading Unix ini files took 0.08 seconds
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogConfig: Display: Loading VulkanPC ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogConfig: Display: Loading Windows ini files took 0.07 seconds
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.1826] (), CPU:         Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 650
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.08.01-12.12.22:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.08.01-12.12.22:065][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.01-12.12.22:065][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.08.01-12.12.22:066][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.08.01-12.12.22:066][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.08.01-12.12.22:066][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.01-12.12.22:066][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.01-12.12.22:066][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.08.01-12.12.22:066][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.08.01-12.12.22:066][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.08.01-12.12.22:066][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.08.01-12.12.22:066][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.08.01-12.12.22:066][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.08.01-12.12.22:066][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.08.01-12.12.22:066][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.08.01-12.12.22:066][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.08.01-12.12.22:066][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.08.01-12.12.22:066][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.08.01-12.12.22:066][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.08.01-12.12.22:066][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.08.01-12.12.22:066][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.08.01-12.12.22:069][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.08.01-12.12.22:069][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.08.01-12.12.22:069][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.08.01-12.12.22:069][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.08.01-12.12.22:069][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.08.01-12.12.22:069][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.08.01-12.12.22:069][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.08.01-12.12.22:069][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.08.01-12.12.22:069][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.08.01-12.12.22:069][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.08.01-12.12.22:069][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.08.01-12.12.22:107][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.08.01-12.12.22:110][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.08.01-12.12.22:110][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.08.01-12.12.22:110][  0]LogD3D11RHI: D3D11 adapters:
+[2022.08.01-12.12.22:110][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.08.01-12.12.22:110][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 650
+[2022.08.01-12.12.22:110][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.08.01-12.12.22:110][  0]LogD3D11RHI:     DeviceId    : 0fc6
+[2022.08.01-12.12.22:110][  0]LogD3D11RHI:     SubSysId    : 7377
+[2022.08.01-12.12.22:110][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.08.01-12.12.22:110][  0]LogD3D11RHI:     DedicatedVideoMemory : 1032388608 bytes
+[2022.08.01-12.12.22:110][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.08.01-12.12.22:110][  0]LogD3D11RHI:     SharedSystemMemory : 8543334400 bytes
+[2022.08.01-12.12.22:110][  0]LogD3D11RHI:     AdapterLuid : 0 47074
+[2022.08.01-12.12.22:264][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 650' (Feature Level 11_0)
+[2022.08.01-12.12.22:264][  0]LogD3D11RHI:       984/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.08.01-12.12.22:265][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.08.01-12.12.22:265][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.08.01-12.12.22:265][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.08.01-12.12.22:265][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.08.01-12.12.22:265][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.08.01-12.12.22:265][  0]LogD3D11RHI:     Revision    : 0000
+[2022.08.01-12.12.22:265][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.08.01-12.12.22:265][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.08.01-12.12.22:265][  0]LogD3D11RHI:     SharedSystemMemory : 8543334400 bytes
+[2022.08.01-12.12.22:265][  0]LogD3D11RHI:     AdapterLuid : 0 49856
+[2022.08.01-12.12.22:268][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.08.01-12.12.22:268][  0]LogD3D11RHI:       0/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.08.01-12.12.22:268][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.08.01-12.12.22:268][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 650
+[2022.08.01-12.12.22:268][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.08.01-12.12.22:268][  0]LogD3D11RHI:     DeviceId    : 0fc6
+[2022.08.01-12.12.22:268][  0]LogD3D11RHI:     SubSysId    : 7377
+[2022.08.01-12.12.22:268][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.08.01-12.12.22:268][  0]LogD3D11RHI:     DedicatedVideoMemory : 1032388608 bytes
+[2022.08.01-12.12.22:268][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.08.01-12.12.22:268][  0]LogD3D11RHI:     SharedSystemMemory : 8543334400 bytes
+[2022.08.01-12.12.22:268][  0]LogD3D11RHI:     AdapterLuid : 0 47074
+[2022.08.01-12.12.22:268][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.01-12.12.22:269][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.08.01-12.12.22:269][  0]LogHAL: Display: Platform has ~ 16 GB [17086668800 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.01-12.12.22:269][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.08.01-12.12.22:269][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.08.01-12.12.22:269][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.01-12.12.22:269][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.08.01-12.12.22:269][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE Projects/KDTree/KDTree/Saved/Config/WindowsEditor/Editor.ini]
+[2022.08.01-12.12.22:269][  0]LogInit: Computer: DESKTOP-67MRTJG
+[2022.08.01-12.12.22:269][  0]LogInit: User: lc06
+[2022.08.01-12.12.22:269][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.08.01-12.12.22:269][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.01-12.12.22:269][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.08.01-12.12.22:269][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.08.01-12.12.22:269][  0]LogMemory: Process Physical Memory: 248.58 MB used, 255.21 MB peak
+[2022.08.01-12.12.22:269][  0]LogMemory: Process Virtual Memory: 183.79 MB used, 200.61 MB peak
+[2022.08.01-12.12.22:269][  0]LogMemory: Physical Memory: 8090.41 MB used,  8204.71 MB free, 16295.12 MB total
+[2022.08.01-12.12.22:269][  0]LogMemory: Virtual Memory: 12539.07 MB used,  8958.54 MB free, 21497.61 MB total
+[2022.08.01-12.12.22:269][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.08.01-12.12.22:285][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.01-12.12.22:326][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.08.01-12.12.22:327][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.08.01-12.12.22:327][  0]LogInit: Using OS detected locale (zh-CN).
+[2022.08.01-12.12.22:588][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.01-12.12.22:603][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.08.01-12.12.22:603][  0]LogWindowsTextInputMethodSystem:   - 中文(简体，中国) - 微软拼音 (TSF IME).
+[2022.08.01-12.12.22:604][  0]LogWindowsTextInputMethodSystem: Activated input method: 中文(简体，中国) - 微软拼音 (TSF IME).
+[2022.08.01-12.12.22:622][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.01-12.12.22:622][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.01-12.12.22:857][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.08.01-12.12.22:857][  0]LogD3D11RHI:     GPU DeviceId: 0xfc6 (for the marketing name, search the web for "GPU Device Id")
+[2022.08.01-12.12.22:857][  0]LogWindows: Attached monitors:
+[2022.08.01-12.12.22:857][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1080), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.08.01-12.12.22:857][  0]LogWindows: Found 1 attached monitors.
+[2022.08.01-12.12.22:857][  0]LogWindows: EnumDisplayDevices:
+[2022.08.01-12.12.22:858][  0]LogWindows:    0. 'NVIDIA GeForce GTX 650' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.08.01-12.12.22:859][  0]LogWindows:    1. 'NVIDIA GeForce GTX 650' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.08.01-12.12.22:860][  0]LogWindows:    2. 'NVIDIA GeForce GTX 650' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.08.01-12.12.22:860][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2022.08.01-12.12.22:860][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 650
+[2022.08.01-12.12.22:860][  0]LogD3D11RHI:   Driver Version: 473.47 (internal:30.0.14.7347, unified:473.47)
+[2022.08.01-12.12.22:860][  0]LogD3D11RHI:      Driver Date: 4-27-2022
+[2022.08.01-12.12.22:860][  0]LogRHI: Texture pool is 689 MB (70% of 984 MB)
+[2022.08.01-12.12.22:860][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.08.01-12.12.22:860][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 650
+[2022.08.01-12.12.22:860][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.08.01-12.12.22:860][  0]LogD3D11RHI:     DeviceId    : 0fc6
+[2022.08.01-12.12.22:861][  0]LogD3D11RHI:     SubSysId    : 7377
+[2022.08.01-12.12.22:861][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.08.01-12.12.22:861][  0]LogD3D11RHI:     DedicatedVideoMemory : 1032388608 bytes
+[2022.08.01-12.12.22:861][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.08.01-12.12.22:861][  0]LogD3D11RHI:     SharedSystemMemory : 8543334400 bytes
+[2022.08.01-12.12.22:861][  0]LogD3D11RHI:     AdapterLuid : 0 47074
+[2022.08.01-12.12.22:978][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2022.08.01-12.12.22:979][  0]LogD3D11RHI: Async texture creation enabled
+[2022.08.01-12.12.22:979][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.08.01-12.12.23:013][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.08.01-12.12.23:099][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.08.01-12.12.23:111][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/UE Projects/KDTree/KDTree/KDTree.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/UE Projects/KDTree/KDTree/Intermediate/TurnkeyReport_0.log" -log="E:/UE Projects/KDTree/KDTree/Intermediate/TurnkeyLog_0.log" -project="E:/UE Projects/KDTree/KDTree/KDTree.uproject"  -platform=all'
+[2022.08.01-12.12.23:111][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/UE Projects/KDTree/KDTree/KDTree.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/UE Projects/KDTree/KDTree/Intermediate/TurnkeyReport_0.log" -log="E:/UE Projects/KDTree/KDTree/Intermediate/TurnkeyLog_0.log" -project="E:/UE Projects/KDTree/KDTree/KDTree.uproject"  -platform=all" ]
+[2022.08.01-12.12.23:159][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.08.01-12.12.23:173][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.08.01-12.12.23:173][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.08.01-12.12.23:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.01-12.12.23:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.01-12.12.23:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.01-12.12.23:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.01-12.12.23:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.01-12.12.23:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.01-12.12.23:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.01-12.12.23:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.01-12.12.23:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.01-12.12.23:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.01-12.12.23:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.08.01-12.12.23:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.08.01-12.12.23:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.01-12.12.23:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.01-12.12.23:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.08.01-12.12.23:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.08.01-12.12.23:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.08.01-12.12.23:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.08.01-12.12.23:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.08.01-12.12.23:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.08.01-12.12.23:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.08.01-12.12.23:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.01-12.12.23:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.01-12.12.23:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.01-12.12.23:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.08.01-12.12.23:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.01-12.12.23:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.01-12.12.23:275][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.08.01-12.12.23:287][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.01-12.12.23:293][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.08.01-12.12.23:293][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.08.01-12.12.23:293][  0]LogTargetPlatformManager:   ADPCM
+[2022.08.01-12.12.23:293][  0]LogTargetPlatformManager:   PCM
+[2022.08.01-12.12.23:298][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.08.01-12.12.23:298][  0]LogTargetPlatformManager:   BINKA
+[2022.08.01-12.12.23:298][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.08.01-12.12.23:298][  0]LogTargetPlatformManager:   OGG
+[2022.08.01-12.12.23:298][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.08.01-12.12.23:298][  0]LogTargetPlatformManager:   OPUS
+[2022.08.01-12.12.23:368][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.08.01-12.12.23:379][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.08.01-12.12.23:379][  0]LogTargetPlatformManager:   SF_METAL
+[2022.08.01-12.12.23:379][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.08.01-12.12.23:379][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.08.01-12.12.23:379][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.08.01-12.12.23:379][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.08.01-12.12.23:379][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.08.01-12.12.23:379][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.08.01-12.12.23:379][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.08.01-12.12.23:379][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.08.01-12.12.23:379][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.08.01-12.12.23:379][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.08.01-12.12.23:379][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.08.01-12.12.23:379][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.08.01-12.12.23:379][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.08.01-12.12.23:379][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.08.01-12.12.23:385][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.08.01-12.12.23:385][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.08.01-12.12.23:385][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.08.01-12.12.23:385][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.08.01-12.12.23:385][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.08.01-12.12.23:385][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.08.01-12.12.23:385][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.08.01-12.12.23:385][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.01-12.12.23:386][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../UE Projects/KDTree/KDTree/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.01-12.12.23:412][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.01-12.12.23:412][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../UE Projects/KDTree/KDTree/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.01-12.12.23:416][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.01-12.12.23:419][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UE Projects/KDTree/KDTree/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.01-12.12.23:419][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.08.01-12.12.23:420][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UE Projects/KDTree/KDTree/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.01-12.12.23:420][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.08.01-12.12.23:448][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.08.01-12.12.23:449][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.01-12.12.23:449][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.08.01-12.12.23:464][  0]LogDerivedDataCache: Speed tests for C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.08.01-12.12.23:464][  0]LogDerivedDataCache: Display: Performance to C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.23ms. RandomReadSpeed=578.74MBs, RandomWriteSpeed=87.10MBs. Assigned SpeedClass 'Local'
+[2022.08.01-12.12.23:467][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.01-12.12.23:467][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.01-12.12.23:467][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.08.01-12.12.23:478][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.08.01-12.12.23:478][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.08.01-12.12.23:478][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../UE Projects/KDTree/KDTree/Intermediate/Shaders/WorkingDirectory/6572/).
+[2022.08.01-12.12.23:479][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lc06/AppData/Local/Temp/UnrealShaderWorkingDir/19B1D6BD47C17E7CBC1902A5E95244A7/'.
+[2022.08.01-12.12.23:480][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.08.01-12.12.23:480][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2022.08.01-12.12.25:488][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.08.01-12.12.25:488][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.01-12.12.25:489][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.01-12.12.25:542][  0]LogAssetRegistry: FAssetRegistry took 0.0221 seconds to start up
+[2022.08.01-12.12.25:550][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.08.01-12.12.25:789][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.08.01-12.12.25:790][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.08.01-12.12.26:512][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.01-12.12.26:512][  0]LogDeviceProfileManager: Active device profile: [000009950C862140][0000099504A57800 50] WindowsEditor
+[2022.08.01-12.12.26:513][  0]LogDeviceProfileManager: Profiles: [000009950C861C00][0000099504A52800 50] Windows, [000009950C862140][0000099504A57800 50] WindowsEditor, [000009950C860000][0000099504A50000 50] WindowsServer, [000009950C8624C0][000009950496A000 50] WindowsClient, [000009950C861180][00000994F7DCA000 50] IOS, [000009950C861A40][00000994FFB15000 50] iPadAir2, [000009950C864EC0][000009950C872800 50] IPadPro, [000009950C865240][000009950C870000 50] iPadAir3, [000009950C862300][000009950C877800 50] iPadAir4, [000009950C860380][000009950C87A000 50] iPadMini4, [000009950C8640C0][000009950C87C800 50] iPadMini5, [000009950C860C40][0000099504A5A000 50] iPadMini6, [000009950C868180][000009950C885000 50] iPhone6S, [000009950C868500][000009950C882800 50] iPhone7, [000009950C868880][000009950C880000 50] iPodTouch7, [000009950C8608C0][000009950C88A000 50] iPhone6SPlus, [000009950C8686C0][000009950C88C800 50] iPhone7Plus, [000009950C866900][000009950C875000 50] iPhoneSE, [000009950C8671C0][000009950C830000 50] iPhone8, [000009950C863800][000009950C835000 50] iPhone8Plus, [000009950C868A40][000009950C837800 50] iPhoneX, [000009950C867000][000009950C83A000 50] iPhoneXS, [000009950C866740][000009950C83C800 50] iPhoneXSMax, [000009950C862680][000009950C887800 50] iPhoneXR, [000009950C864600][000009950C8B0000 50] iPhone11, [000009950C8663C0][000009950C8B5000 50] iPhone11Pro, [000009950C862D80][000009950C8B7800 50] iPhone11ProMax, [000009950C865CC0][000009950C8BA000 50] iPhoneSE2, [000009950C863F00][000009950C8BC800 50] iPhone12Mini, [000009950C865E80][000009950C832800 50] iPhone12, [000009950C862BC0][000009950C8C0000 50] iPhone12Pro, [000009950C8601C0][000009950C8C5000 50] iPhone12ProMax, [000009950C863D40][000009950C8C7800 50] iPhone13Mini, [000009950C8639C0][000009950C8CA000 50] iPhone13, [000009950C866580][000009950C8CC800 50] iPhone13Pro, [000009950C865940][000009950C8B2800 50] iPhone13ProMax, [000009950C8616C0][000009950C8D0000 50] iPadPro105, [000009950C867A80][000009950C8D5000 50] iPadPro129, [000009950C867E00][000009950C8D7800 50] iPadPro97, [000009950C861F80][000009950C8DA000 50] iPadPro2_129, [000009950C868C00][000009950C8DC800 50] iPad5, [000009950C863640][000009950C8C2800 50] iPad6, [000009950C867380][000009950C8E0000 50] iPad7, [000009950C861500][000009950C8E5000 50] iPad8, [000009950C866200][000009950C8E7800 50] iPad9, [000009950C860540][000009950C8EA000 50] iPadPro11, [000009950C866AC0][000009950C8EC800 50] iPadPro2_11, [000009950C860E00][000009950C8D2800 50] iPadPro3_11, [000009950C867540][000009950C8F0000 50] iPadPro3_129, [000009950C864440][000009950C8F5000 50] iPadPro4_129, [000009950C8647C0][000009950C8F7800 50] iPadPro5_129, [000009950C860A80][000009950C8FA000 50] AppleTV, [000009950C864D00][000009950C8FC800 50] AppleTV4K, [000009950C866040][000009950C8E2800 50] TVOS, [000009950C86A2C0][000009950C842800 50] Mac, [000009950C86A640][000009950C840000 50] MacEditor, [000009950C8655C0][000009950C847800 50] MacClient, [000009950C86A480][000009950C84A000 50] MacServer, [000009950C86A100][000009950C8F2800 50] Linux, [000009950C8694C0][000009950C84C800 50] LinuxEditor, [000009950C864280][000009950C900000 50] LinuxArm64Editor, [000009950C86A800][000009950C905000 50] LinuxArm64, [000009950C869300][000009950C907800 50] LinuxClient, [000009950C866C80][000009950C90A000 50] LinuxArm64Client, [000009950C86AB80][000009950C90C800 50] LinuxServer, [000009950C8678C0][000009950C845000 50] LinuxArm64Server, [000009950C861880][000009950C910000 50] Android, [000009950C869140][000009950C915000 50] Android_Preview_OpenGL, [000009950C867FC0][000009950C917800 50] Android_Preview_Vulkan, [000009950C863100][000009950C91A000 50] Android_Low, [000009950C865400][000009950C91C800 50] Android_Mid, [000009950C862F40][000009950C902800 50] Android_High, [000009950C869A00][000009950C930000 50] Android_Default, [000009950C867700][000009950C935000 50] Android_Adreno4xx, [000009950C867C40][000009950C937800 50] Android_Adreno5xx_Low, [000009950C869BC0][000009950C93A000 50] Android_Adreno5xx, [000009950C868F80][000009950C93C800 50] Android_Adreno6xx, [000009950C869F40][000009950C912800 50] Android_Adreno6xx_Vulkan, [000009950C8632C0][000009950C940000 50] Android_Adreno7xx, [000009950C863B80][000009950C945000 50] Android_Adreno7xx_Vulkan, [000009950C86B440][000009950C947800 50] Android_Mali_T6xx, [000009950C863480][000009950C94A000 50] Android_Mali_T7xx, [000009950C864B40][000009950C94C800 50] Android_Mali_T8xx, [000009950C865B00][000009950C932800 50] Android_Mali_G71, [000009950C86B600][000009950C850000 50] Android_Mali_G72, [000009950C865080][000009950C855000 50] Android_Mali_G72_Vulkan, [000009950C86B980][000009950C857800 50] Android_Mali_G76, [000009950C864980][000009950C85A000 50] Android_Mali_G76_Vulkan, [000009950C86A9C0][000009950C85C800 50] Android_Mali_G77, [000009950C86C400][000009950C942800 50] Android_Mali_G77_Vulkan, [000009950C869D80][000009950C950000 50] Android_Mali_G78, [000009950C862840][000009950C955000 50] Android_Mali_G78_Vulkan, [000009950C869840][000009950C957800 50] Android_Mali_G710, [000009950C86C5C0][000009950C95A000 50] Android_Mali_G710_Vulkan, [000009950C862A00][000009950C95C800 50] Android_Xclipse_920, [000009950C86C940][000009950C852800 50] Android_Xclipse_920_Vulkan, [000009950C86BB40][000009950C960000 50] Android_Vulkan_SM5, [000009950C86BD00][000009950C965000 50] Android_PowerVR_G6xxx, [000009950C86D3C0][000009950C967800 50] Android_PowerVR_GT7xxx, [000009950C86B7C0][000009950C96A000 50] Android_PowerVR_GE8xxx, [000009950C868340][000009950C96C800 50] Android_PowerVR_GM9xxx, [000009950C866E40][000009950C952800 50] Android_PowerVR_GM9xxx_Vulkan, [000009950C86D580][000009950C970000 50] Android_TegraK1, [000009950C86C080][000009950C975000 50] Android_Unknown_Vulkan, [000009950C86D900][000009950C977800 50] Oculus_Quest, [000009950C86B280][000009950C97A000 50] Oculus_Quest2, [000009950C86E380][000009950C97C800 50] HoloLens, 
+[2022.08.01-12.12.26:513][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.08.01-12.12.26:516][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.08.01-12.12.26:516][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.17763.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.08.01-12.12.26:516][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.08.01-12.12.26:516][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.08.01-12.12.26:516][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.08.01-12.12.26:516][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.08.01-12.12.26:516][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.17763.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.08.01-12.12.26:549][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.08.01-12.12.26:836][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.01-12.12.26:836][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.01-12.12.26:836][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.01-12.12.26:836][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.01-12.12.26:836][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.01-12.12.26:861][  0]LogNetVersion: KDTree 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 386760310)
+[2022.08.01-12.12.27:060][  0]LogSlate: Border
+[2022.08.01-12.12.27:060][  0]LogSlate: BreadcrumbButton
+[2022.08.01-12.12.27:060][  0]LogSlate: Default
+[2022.08.01-12.12.27:060][  0]LogSlate: Icons.Save
+[2022.08.01-12.12.27:060][  0]LogSlate: Icons.Toolbar.Settings
+[2022.08.01-12.12.27:060][  0]LogSlate: ListView
+[2022.08.01-12.12.27:061][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.08.01-12.12.27:061][  0]LogSlate: SoftwareCursor_Grab
+[2022.08.01-12.12.27:061][  0]LogSlate: TableView.DarkRow
+[2022.08.01-12.12.27:061][  0]LogSlate: TableView.Row
+[2022.08.01-12.12.27:061][  0]LogSlate: TreeView
+[2022.08.01-12.12.27:368][  0]SourceControl: Source control is disabled
+[2022.08.01-12.12.27:412][  0]SourceControl: Source control is disabled
+[2022.08.01-12.12.27:412][  0]SourceControl: Source control is disabled
+[2022.08.01-12.12.27:585][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.08.01-12.12.27:585][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.08.01-12.12.27:585][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.01-12.12.28:297][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 77EE3B5A4BAF5E481E923BBFFD025A71 | Instance: 274E1FA643E9E719F76C28A0D972A363 (DESKTOP-67MRTJG-6572).
+[2022.08.01-12.12.28:436][  0]LogPython: Using Python 3.9.7
+[2022.08.01-12.12.29:872][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.01-12.12.29:888][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.01-12.12.30:112][  0]SourceControl: Source control is disabled
+[2022.08.01-12.12.30:171][  0]SourceControl: Source control is disabled
+[2022.08.01-12.12.30:199][  0]SourceControl: Source control is disabled
+[2022.08.01-12.12.30:216][  0]LogUProjectInfo: Found projects:
+[2022.08.01-12.12.30:987][  0]LogOpenImageDenoise: OIDN starting up
+[2022.08.01-12.12.31:084][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.01-12.12.31:125][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.01-12.12.31:125][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.01-12.12.31:293][  0]LogCollectionManager: Loaded 0 collections in 0.005396 seconds
+[2022.08.01-12.12.31:439][  0]LogFileCache: Scanning file cache for directory 'E:/UE Projects/KDTree/KDTree/Saved/Collections/' took 0.00s
+[2022.08.01-12.12.31:439][  0]LogFileCache: Scanning file cache for directory 'E:/UE Projects/KDTree/KDTree/Content/Developers/lc06/Collections/' took 0.00s
+[2022.08.01-12.12.31:439][  0]LogFileCache: Scanning file cache for directory 'E:/UE Projects/KDTree/KDTree/Content/Collections/' took 0.00s
+[2022.08.01-12.12.31:926][  0]LogEngine: Initializing Engine...
+[2022.08.01-12.12.31:948][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.08.01-12.12.32:058][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.08.01-12.12.32:475][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.01-12.12.32:476][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.01-12.12.32:493][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.01-12.12.32:540][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.01-12.12.32:541][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.01-12.12.32:578][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.08.01-12.12.32:579][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.08.01-12.12.32:579][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.08.01-12.12.32:579][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.01-12.12.32:579][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.01-12.12.32:579][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.01-12.12.32:579][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.01-12.12.32:579][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.01-12.12.32:579][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.01-12.12.32:579][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.01-12.12.32:579][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.01-12.12.32:579][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.01-12.12.32:579][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.01-12.12.32:580][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.01-12.12.32:580][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.01-12.12.32:580][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.01-12.12.32:598][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.01-12.12.32:711][  0]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek High Definition Audio)
+[2022.08.01-12.12.32:712][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.01-12.12.32:716][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.01-12.12.32:716][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.01-12.12.32:716][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.08.01-12.12.32:716][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.01-12.12.32:718][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.01-12.12.32:718][  0]LogInit: FAudioDevice initialized.
+[2022.08.01-12.12.32:718][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.08.01-12.12.32:718][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.01-12.12.32:719][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.01-12.12.32:719][  0]LogInit: Texture streaming: Enabled
+[2022.08.01-12.12.32:774][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.08.01-12.12.32:791][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.01-12.12.32:835][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.08.01-12.12.32:847][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.08.01-12.12.32:847][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.08.01-12.13.13:910][  0]LogLiveCoding: Display: First instance in process group "UE_KDTree_0x1a61499e", spawning console
+[2022.08.01-12.13.13:910][  0]LogLiveCoding: Display: Waiting for server
+[2022.08.01-12.13.13:910][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.08.01-12.13.13:965][  0]LogInit: Transaction tracking system initialized
+[2022.08.01-12.13.14:090][  0]BlueprintLog: New page: Editor Load
+[2022.08.01-12.13.14:427][  0]LocalizationService: Localization service is disabled
+[2022.08.01-12.13.14:512][  0]TimingProfiler: Initialize
+[2022.08.01-12.13.14:512][  0]TimingProfiler: OnSessionChanged
+[2022.08.01-12.13.14:512][  0]LoadingProfiler: Initialize
+[2022.08.01-12.13.14:512][  0]LoadingProfiler: OnSessionChanged
+[2022.08.01-12.13.14:512][  0]NetworkingProfiler: Initialize
+[2022.08.01-12.13.14:512][  0]NetworkingProfiler: OnSessionChanged
+[2022.08.01-12.13.14:512][  0]MemoryProfiler: Initialize
+[2022.08.01-12.13.14:512][  0]MemoryProfiler: OnSessionChanged
+[2022.08.01-12.13.15:639][  0]LogFileCache: Scanning file cache for directory 'E:/UE Projects/KDTree/KDTree/Content/' took 0.01s
+[2022.08.01-12.13.15:639][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.08.01-12.13.15:766][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.01-12.13.15:770][  0]SourceControl: Source control is disabled
+[2022.08.01-12.13.15:770][  0]LogUnrealEdMisc: Loading editor; pre map load, took 56.886
+[2022.08.01-12.13.15:770][  0]Cmd: MAP LOAD FILE="../../../../UE Projects/KDTree/KDTree/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.01-12.13.15:771][  0]LightingResults: New page: Lighting Build
+[2022.08.01-12.13.15:781][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-12.13.15:781][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-12.13.15:781][  0]MapCheck: New page: Map Check
+[2022.08.01-12.13.15:781][  0]LightingResults: New page: Lighting Build
+[2022.08.01-12.13.15:792][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.01-12.13.15:795][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.08.01-12.13.16:670][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere should be resaved to improve async compilation performance.
+[2022.08.01-12.13.16:730][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500 should be resaved to improve async compilation performance.
+[2022.08.01-12.13.16:793][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 should be resaved to improve async compilation performance.
+[2022.08.01-12.13.16:990][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.08.01-12.13.16:991][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.01-12.13.16:991][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.01-12.13.16:991][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.08.01-12.13.17:007][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.01-12.13.17:018][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.08.01-12.13.17:018][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.01-12.13.17:018][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.288ms to complete.
+[2022.08.01-12.13.17:018][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.249
+[2022.08.01-12.13.17:043][  0]LogUnrealEdMisc: Total Editor Startup Time, took 58.159
+[2022.08.01-12.13.17:043][  0]LogShaderCompilers: Display: ================================================
+[2022.08.01-12.13.17:043][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.01-12.13.17:043][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.01-12.13.17:043][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.01-12.13.17:043][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.08.01-12.13.17:043][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.01-12.13.17:043][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.01-12.13.17:043][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.01-12.13.17:043][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.01-12.13.17:043][  0]LogShaderCompilers: Display: ================================================
+[2022.08.01-12.13.17:235][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-12.13.17:244][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-12.13.17:252][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-12.13.17:260][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-12.13.17:355][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.08.01-12.13.17:355][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-12.13.17:380][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.08.01-12.13.17:380][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-12.13.17:439][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.08.01-12.13.17:440][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-12.13.17:452][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.08.01-12.13.17:452][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-12.13.17:489][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.08.01-12.13.17:489][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-12.13.17:499][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.08.01-12.13.17:499][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-12.13.17:502][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.08.01-12.13.17:502][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-12.13.17:511][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.08.01-12.13.17:511][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-12.13.17:521][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.08.01-12.13.17:521][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-12.13.17:523][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.08.01-12.13.17:524][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.01-12.13.17:546][  0]LogFeaturePack: Error: Error in Feature pack E:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.08.01-12.13.18:553][  0]LogSlate: Took 0.000352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.01-12.13.18:556][  0]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.01-12.13.18:574][  0]LogSlate: Took 0.015028 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.08.01-12.13.18:668][  0]LogSlate: Took 0.072274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.08.01-12.13.18:695][  0]LogSlate: Took 0.007242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.01-12.13.18:735][  0]LogViewport: Scene viewport resized to 1170x680, mode Windowed.
+[2022.08.01-12.13.19:424][  0]LogStall: Startup...
+[2022.08.01-12.13.19:426][  0]LogStall: Startup complete.
+[2022.08.01-12.13.19:458][  0]LogLoad: (Engine Initialization) Total time: 60.57 seconds
+[2022.08.01-12.13.19:459][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.01-12.13.19:715][  0]LogAssetRegistry: Asset discovery search completed in 54.1748 seconds
+[2022.08.01-12.13.19:730][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.08.01-12.13.19:770][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.01-12.13.20:027][  1]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.01-12.14.23:670][192]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.107 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.01-12.29.30:136][898]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.08.01-12.36.38:507][172]LogHttp: Warning: 0000099529738700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.01-12.36.38:508][172]LogHttp: Warning: 0000099529738700: request failed, libcurl error: 0 (No error)
+[2022.08.01-12.36.38:508][172]LogHttp: Warning: 0000099529738700: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x994fb0e0000 [can pipeline])
+[2022.08.01-12.36.38:508][172]LogHttp: Warning: 0000099529738700: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.08.01-12.36.38:508][172]LogHttp: Warning: 0000099529738700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.199.153.243) port 443 (#0))
+[2022.08.01-12.36.38:508][172]LogHttp: Warning: 0000099529738700: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.01-12.36.38:508][172]LogHttp: Warning: 0000099529738700: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.08.01-12.36.38:508][172]LogHttp: Warning: 0000099529738700: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.01-12.36.38:508][172]LogHttp: Warning: 0000099529738700: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.01-12.36.38:508][172]LogHttp: Warning: 0000099529738700: libcurl info message cache 7 (Closing connection 0)
+[2022.08.01-12.36.38:508][172]LogHttp: Warning: 0000099529738700: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.08.01-12.36.38:508][172]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.01-12.43.04:219][323]LogWindowsTextInputMethodSystem: Activated input method: 中文(简体，中国) - 微软拼音 (TSF IME).
+[2022.08.01-12.51.56:707][130]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.01-12.51.56:916][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.01-12.51.56:963][130]PIE: New page: PIE session: Minimal_Default (2022年8月2日 上午4:51:56)
+[2022.08.01-12.51.57:004][130]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.08.01-12.51.57:004][130]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.08.01-12.51.57:042][130]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.08.01-12.51.57:311][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.268370s)
+[2022.08.01-12.51.57:311][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.269086s)
+[2022.08.01-12.51.57:311][130]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.01-12.51.57:311][130]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.01-12.51.57:319][130]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.08.01-12.51.57:320][130]LogPlayLevel: PIE: World Init took: (0.009306s)
+[2022.08.01-12.51.57:373][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.08.01-12.51.57:423][130]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.08.01-12.51.57:423][130]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.01-12.51.57:423][130]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.01-12.51.57:423][130]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.01-12.51.57:423][130]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.01-12.51.57:423][130]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.01-12.51.57:423][130]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.01-12.51.57:423][130]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.01-12.51.57:423][130]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.01-12.51.57:424][130]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.01-12.51.57:424][130]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.01-12.51.57:424][130]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.01-12.51.57:426][130]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.01-12.51.57:489][130]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek High Definition Audio)
+[2022.08.01-12.51.57:489][130]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.01-12.51.57:489][130]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.01-12.51.57:489][130]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.01-12.51.57:490][130]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.08.01-12.51.57:490][130]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.08.01-12.51.57:492][130]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.08.01-12.51.57:492][130]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.08.01-12.51.57:492][130]LogInit: FAudioDevice initialized.
+[2022.08.01-12.51.57:492][130]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2022.08.01-12.51.57:626][130]LogLoad: Game class is 'GameModeBase'
+[2022.08.01-12.51.57:631][130]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.08.01-20.51.57
+[2022.08.01-12.51.57:680][130]LogWorld: Bringing up level for play took: 0.053463
+[2022.08.01-12.51.57:683][130]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.08.01-12.51.58:286][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=45.125 Y=3.435 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:301][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=48.559 Y=4.211 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:301][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-1.693 Y=-34.141 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:301][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=4.752 Y=15.342 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:301][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-6.629 Y=-21.719 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:302][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=17.613 Y=24.171 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:302][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-1.800 Y=28.742 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:302][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-45.603 Y=47.887 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:303][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-47.149 Y=-10.773 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:303][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=4.171 Y=-49.469 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:303][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=30.333 Y=37.450 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:303][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=0.844 Y=-4.804 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:304][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=36.340 Y=-41.380 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:304][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-1.557 Y=-38.625 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:304][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-31.731 Y=16.244 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:304][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-43.557 Y=3.990 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:304][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=28.824 Y=-43.956 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:305][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-32.025 Y=5.704 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:305][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-35.478 Y=-17.968 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:305][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=38.712 Y=49.036 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:305][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-25.585 Y=18.825 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:306][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-0.746 Y=9.881 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:306][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=9.341 Y=49.247 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:306][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=8.818 Y=48.966 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:306][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-42.988 Y=-8.710 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:307][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-16.944 Y=-47.174 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:307][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-16.746 Y=-46.513 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:307][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-46.200 Y=-49.151 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:307][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-25.283 Y=-17.225 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:308][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=43.552 Y=9.961 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:308][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=3.356 Y=-6.109 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:308][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=12.544 Y=-16.490 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:309][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=8.002 Y=44.381 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:309][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=11.154 Y=-34.091 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:309][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-36.655 Y=-5.726 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:309][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=45.516 Y=-20.397 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:310][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-18.384 Y=-35.515 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:310][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=39.121 Y=-4.068 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:310][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-32.686 Y=-16.987 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:311][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=48.231 Y=-33.573 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:311][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=20.256 Y=-17.006 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:311][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-36.091 Y=16.134 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:311][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-42.709 Y=-8.326 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:312][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=8.486 Y=25.499 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:312][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-2.025 Y=24.357 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:312][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=9.272 Y=2.401 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:312][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=34.524 Y=-27.599 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:313][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=7.330 Y=20.875 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:313][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-18.647 Y=49.319 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:313][130]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=34.115 Y=-21.900 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.01-12.51.58:323][130]PIE: Server logged in
+[2022.08.01-12.51.58:352][130]PIE: Play in editor total start time 1.605 seconds.
+[2022.08.01-12.51.59:370][134]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=2
+[2022.08.01-12.52.01:127][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -4.803596
+[2022.08.01-12.52.01:127][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -5.725765
+[2022.08.01-12.52.01:127][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 1
+[2022.08.01-12.52.01:128][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -1.557076
+[2022.08.01-12.52.01:128][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -1.69331
+[2022.08.01-12.52.01:128][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 2
+[2022.08.01-12.52.01:128][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -17.968262
+[2022.08.01-12.52.01:128][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -17.968262
+[2022.08.01-12.52.01:128][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 3
+[2022.08.01-12.52.01:128][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -16.943527
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -16.943527
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 4
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -35.514961
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -49.151276
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 5
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -18.383766
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -18.383766
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 6
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -21.718693
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -46.512722
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 7
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -6.628872
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -6.628872
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 8
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -42.709373
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -42.709373
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 9
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -8.709919
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -10.773205
+[2022.08.01-12.52.01:129][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 10
+[2022.08.01-12.52.01:130][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -42.988457
+[2022.08.01-12.52.01:130][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -42.988457
+[2022.08.01-12.52.01:130][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 11
+[2022.08.01-12.52.01:130][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -16.987083
+[2022.08.01-12.52.01:130][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -17.225109
+[2022.08.01-12.52.01:130][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 12
+[2022.08.01-12.52.01:130][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -32.686081
+[2022.08.01-12.52.01:130][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -32.686081
+[2022.08.01-12.52.01:130][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 13
+[2022.08.01-12.52.01:130][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -27.598667
+[2022.08.01-12.52.01:130][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -33.572731
+[2022.08.01-12.52.01:130][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 14
+[2022.08.01-12.52.01:130][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 11.154209
+[2022.08.01-12.52.01:130][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 11.154209
+[2022.08.01-12.52.01:130][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 15
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -38.625263
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -49.469353
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 16
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -1.557076
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -1.557076
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 17
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -41.380142
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -43.956184
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 18
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 36.339844
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 36.339844
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 19
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 34.114624
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 20.255569
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 20
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -6.109165
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -16.489555
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 21
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 3.355728
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 3.355728
+[2022.08.01-12.52.01:131][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 22
+[2022.08.01-12.52.01:132][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -21.900166
+[2022.08.01-12.52.01:132][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -21.900166
+[2022.08.01-12.52.01:132][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 23
+[2022.08.01-12.52.01:132][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 34.52375
+[2022.08.01-12.52.01:132][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 34.52375
+[2022.08.01-12.52.01:132][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 24
+[2022.08.01-12.52.01:132][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 45.515976
+[2022.08.01-12.52.01:132][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 45.515976
+[2022.08.01-12.52.01:132][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 25
+[2022.08.01-12.52.01:133][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 7.330227
+[2022.08.01-12.52.01:133][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 7.330227
+[2022.08.01-12.52.01:133][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 26
+[2022.08.01-12.52.01:133][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 16.244278
+[2022.08.01-12.52.01:133][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 16.133904
+[2022.08.01-12.52.01:133][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 27
+[2022.08.01-12.52.01:133][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -0.74612
+[2022.08.01-12.52.01:133][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -0.74612
+[2022.08.01-12.52.01:133][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 28
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 5.703842
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 3.990448
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 29
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -32.024967
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -32.024967
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 30
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 15.341606
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -4.803596
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 31
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 4.751587
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 4.751587
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 32
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -18.647242
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -25.585342
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 33
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 47.887146
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 16.244278
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 34
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -45.60268
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -45.60268
+[2022.08.01-12.52.01:134][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 35
+[2022.08.01-12.52.01:135][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 28.742134
+[2022.08.01-12.52.01:135][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 28.742134
+[2022.08.01-12.52.01:135][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 36
+[2022.08.01-12.52.01:135][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -2.024948
+[2022.08.01-12.52.01:135][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -2.024948
+[2022.08.01-12.52.01:135][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 37
+[2022.08.01-12.52.01:135][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -18.647242
+[2022.08.01-12.52.01:135][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -18.647242
+[2022.08.01-12.52.01:135][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 38
+[2022.08.01-12.52.01:135][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 25.499283
+[2022.08.01-12.52.01:135][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 24.170807
+[2022.08.01-12.52.01:135][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 39
+[2022.08.01-12.52.01:135][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 43.55217
+[2022.08.01-12.52.01:135][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 43.55217
+[2022.08.01-12.52.01:135][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 40
+[2022.08.01-12.52.01:135][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 2.401184
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] -4.068016
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 41
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 9.272121
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 9.272121
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 42
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 4.211235
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 3.435169
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 43
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 48.559044
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 48.559044
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 44
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 9.34074
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 8.818268
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 45
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 44.381187
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 25.499283
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 46
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 8.002125
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 8.002125
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 47
+[2022.08.01-12.52.01:136][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 49.036003
+[2022.08.01-12.52.01:137][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 49.036003
+[2022.08.01-12.52.01:137][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 48
+[2022.08.01-12.52.01:137][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 30.33271
+[2022.08.01-12.52.01:137][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 30.33271
+[2022.08.01-12.52.01:137][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 49
+[2022.08.01-12.52.01:137][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 9.34074
+[2022.08.01-12.52.01:137][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 9.34074
+[2022.08.01-12.52.01:137][188]LogBlueprintUserMessages: [Minimal_Default_C_86] 50
+[2022.08.01-12.52.01:137][188]LogBlueprintUserMessages: [Minimal_Default_C_86] Begin Draw
+[2022.08.01-12.52.44:546][607]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=2
+[2022.08.01-12.52.44:546][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-12.52.44:546][607]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.08.01-12.52.44:546][607]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.08.01-12.52.44:547][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-12.52.44:674][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.01-12.52.44:705][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.01-12.52.44:737][607]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.01-12.52.44:737][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.01-12.52.44:740][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.01-12.52.44:750][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.01-12.52.44:806][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.08.01-12.52.44:929][608]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.08.01-12.53.38:266][803]LogHttp: Warning: 000009952BC7A500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.01-12.53.38:266][803]LogHttp: Warning: 000009952BC7A500: request failed, libcurl error: 0 (No error)
+[2022.08.01-12.53.38:266][803]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x994fb0e0390 [can pipeline])
+[2022.08.01-12.53.38:266][803]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2022.08.01-12.53.38:266][803]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.215.84.93) port 443 (#1))
+[2022.08.01-12.53.38:266][803]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.01-12.53.38:266][803]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.08.01-12.53.38:266][803]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.01-12.53.38:266][803]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.01-12.53.38:266][803]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 7 (Closing connection 1)
+[2022.08.01-12.53.38:266][803]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.08.01-12.53.38:267][803]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.01-13.14.23:555][526]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.060 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.01-14.14.23:653][294]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.091 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.01-14.40.38:493][  4]LogHttp: Warning: 000009952BC79600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.01-14.40.38:494][  4]LogHttp: Warning: 000009952BC79600: request failed, libcurl error: 0 (No error)
+[2022.08.01-14.40.38:494][  4]LogHttp: Warning: 000009952BC79600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x994fb0e06f0 [can pipeline])
+[2022.08.01-14.40.38:494][  4]LogHttp: Warning: 000009952BC79600: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2022.08.01-14.40.38:494][  4]LogHttp: Warning: 000009952BC79600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.234.116.203) port 443 (#2))
+[2022.08.01-14.40.38:494][  4]LogHttp: Warning: 000009952BC79600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.01-14.40.38:494][  4]LogHttp: Warning: 000009952BC79600: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.08.01-14.40.38:494][  4]LogHttp: Warning: 000009952BC79600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.01-14.40.38:494][  4]LogHttp: Warning: 000009952BC79600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.01-14.40.38:494][  4]LogHttp: Warning: 000009952BC79600: libcurl info message cache 7 (Closing connection 2)
+[2022.08.01-14.40.38:494][  4]LogHttp: Warning: 000009952BC79600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.08.01-14.40.38:494][  4]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.01-14.47.38:618][261]LogHttp: Warning: 000009952BC7A500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.01-14.47.38:618][261]LogHttp: Warning: 000009952BC7A500: request failed, libcurl error: 0 (No error)
+[2022.08.01-14.47.38:618][261]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x994fb0e0b70 [can pipeline])
+[2022.08.01-14.47.38:618][261]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2022.08.01-14.47.38:618][261]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (100.24.212.246) port 443 (#3))
+[2022.08.01-14.47.38:618][261]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.01-14.47.38:618][261]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.08.01-14.47.38:618][261]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.01-14.47.38:618][261]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.01-14.47.38:618][261]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 7 (Closing connection 3)
+[2022.08.01-14.47.38:618][261]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.08.01-14.47.38:619][261]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.01-15.14.23:701][ 62]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.107 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.01-16.14.23:623][830]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.079 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.01-17.14.23:627][598]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.085 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.01-18.14.23:769][366]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.117 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.01-19.14.23:618][134]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.079 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.01-20.14.23:582][901]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.072 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.01-21.14.23:882][670]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.088 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.01-22.14.23:768][436]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.087 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.01-23.14.23:600][205]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.087 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-00.14.23:573][974]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.081 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-01.14.23:765][743]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.094 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-01.47.38:403][710]LogHttp: Warning: 000009952BC79600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.02-01.47.38:403][710]LogHttp: Warning: 000009952BC79600: request failed, libcurl error: 0 (No error)
+[2022.08.02-01.47.38:403][710]LogHttp: Warning: 000009952BC79600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x994fb0e0750 [can pipeline])
+[2022.08.02-01.47.38:403][710]LogHttp: Warning: 000009952BC79600: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2022.08.02-01.47.38:403][710]LogHttp: Warning: 000009952BC79600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.84.107.60) port 443 (#4))
+[2022.08.02-01.47.38:403][710]LogHttp: Warning: 000009952BC79600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.02-01.47.38:403][710]LogHttp: Warning: 000009952BC79600: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.08.02-01.47.38:403][710]LogHttp: Warning: 000009952BC79600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.02-01.47.38:403][710]LogHttp: Warning: 000009952BC79600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.02-01.47.38:403][710]LogHttp: Warning: 000009952BC79600: libcurl info message cache 7 (Closing connection 4)
+[2022.08.02-01.47.38:403][710]LogHttp: Warning: 000009952BC79600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.08.02-01.47.38:403][710]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.02-02.14.23:906][512]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.104 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-02.50.38:365][ 17]LogHttp: Warning: 000009952BC7A500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.02-02.50.38:365][ 17]LogHttp: Warning: 000009952BC7A500: request failed, libcurl error: 0 (No error)
+[2022.08.02-02.50.38:365][ 17]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x994fb0e04e0 [can pipeline])
+[2022.08.02-02.50.38:365][ 17]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 1 (Re-using existing connection! (#5) with host datarouter.ol.epicgames.com)
+[2022.08.02-02.50.38:365][ 17]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.2.213.35) port 443 (#5))
+[2022.08.02-02.50.38:365][ 17]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.02-02.50.38:365][ 17]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.08.02-02.50.38:365][ 17]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.02-02.50.38:365][ 17]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.02-02.50.38:365][ 17]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 7 (Closing connection 5)
+[2022.08.02-02.50.38:365][ 17]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.08.02-02.50.38:365][ 17]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.02-03.14.23:717][280]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.105 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-04.14.23:741][ 49]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.105 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-05.14.23:795][817]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.103 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-06.14.23:629][585]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.080 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-06.30.38:350][500]LogHttp: Warning: 000009952BC7A500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.02-06.30.38:350][500]LogHttp: Warning: 000009952BC7A500: request failed, libcurl error: 0 (No error)
+[2022.08.02-06.30.38:351][500]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x994fb0e0510 [can pipeline])
+[2022.08.02-06.30.38:351][500]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 1 (Re-using existing connection! (#6) with host datarouter.ol.epicgames.com)
+[2022.08.02-06.30.38:351][500]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.172.208.197) port 443 (#6))
+[2022.08.02-06.30.38:351][500]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.02-06.30.38:351][500]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.08.02-06.30.38:351][500]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.02-06.30.38:351][500]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.02-06.30.38:351][500]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 7 (Closing connection 6)
+[2022.08.02-06.30.38:351][500]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.08.02-06.30.38:351][500]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.02-06.54.38:339][807]LogHttp: Warning: 000009952BC7AF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.02-06.54.38:339][807]LogHttp: Warning: 000009952BC7AF00: request failed, libcurl error: 0 (No error)
+[2022.08.02-06.54.38:339][807]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x994fb0e09f0 [can pipeline])
+[2022.08.02-06.54.38:339][807]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 1 (Re-using existing connection! (#7) with host datarouter.ol.epicgames.com)
+[2022.08.02-06.54.38:339][807]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.236.170.76) port 443 (#7))
+[2022.08.02-06.54.38:339][807]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.02-06.54.38:339][807]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.08.02-06.54.38:339][807]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.02-06.54.38:339][807]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.02-06.54.38:339][807]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 7 (Closing connection 7)
+[2022.08.02-06.54.38:339][807]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.08.02-06.54.38:340][807]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.02-06.58.38:533][525]LogHttp: Warning: 000009952BC7AF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.02-06.58.38:533][525]LogHttp: Warning: 000009952BC7AF00: request failed, libcurl error: 0 (No error)
+[2022.08.02-06.58.38:533][525]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x994fb0e0120 [can pipeline])
+[2022.08.02-06.58.38:533][525]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 1 (Re-using existing connection! (#8) with host datarouter.ol.epicgames.com)
+[2022.08.02-06.58.38:533][525]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.235.191.217) port 443 (#8))
+[2022.08.02-06.58.38:533][525]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.02-06.58.38:533][525]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.08.02-06.58.38:533][525]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.02-06.58.38:533][525]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.02-06.58.38:533][525]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 7 (Closing connection 8)
+[2022.08.02-06.58.38:533][525]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.08.02-06.58.38:533][525]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.02-07.14.23:844][352]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.095 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-08.14.23:846][119]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.088 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-09.14.23:848][885]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.085 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-10.14.23:636][651]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.077 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-11.14.23:799][418]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.077 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-11.43.38:242][665]LogHttp: Warning: 000009952BC7AF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.02-11.43.38:242][665]LogHttp: Warning: 000009952BC7AF00: request failed, libcurl error: 0 (No error)
+[2022.08.02-11.43.38:242][665]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x994fb0e0ed0 [can pipeline])
+[2022.08.02-11.43.38:242][665]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 1 (Re-using existing connection! (#9) with host datarouter.ol.epicgames.com)
+[2022.08.02-11.43.38:242][665]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.235.191.217) port 443 (#9))
+[2022.08.02-11.43.38:242][665]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.02-11.43.38:242][665]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.08.02-11.43.38:242][665]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.02-11.43.38:242][665]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.02-11.43.38:242][665]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 7 (Closing connection 9)
+[2022.08.02-11.43.38:242][665]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.08.02-11.43.38:243][665]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.02-12.00.38:477][716]LogHttp: Warning: 000009952BC7A500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.02-12.00.38:477][716]LogHttp: Warning: 000009952BC7A500: request failed, libcurl error: 0 (No error)
+[2022.08.02-12.00.38:477][716]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x994fb0e0c00 [can pipeline])
+[2022.08.02-12.00.38:477][716]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2022.08.02-12.00.38:477][716]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.236.117.182) port 443 (#10))
+[2022.08.02-12.00.38:477][716]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.02-12.00.38:477][716]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.08.02-12.00.38:477][716]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.02-12.00.38:477][716]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.02-12.00.38:477][716]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 7 (Closing connection 10)
+[2022.08.02-12.00.38:477][716]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.08.02-12.00.38:478][716]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.02-12.14.23:808][184]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.140 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-13.14.23:764][909]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.085 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-13.56.38:374][460]LogHttp: Warning: 000009952BC7AF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.02-13.56.38:374][460]LogHttp: Warning: 000009952BC7AF00: request failed, libcurl error: 0 (No error)
+[2022.08.02-13.56.38:374][460]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x994fb0e0ea0 [can pipeline])
+[2022.08.02-13.56.38:374][460]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 1 (Re-using existing connection! (#11) with host datarouter.ol.epicgames.com)
+[2022.08.02-13.56.38:374][460]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.88.83.196) port 443 (#11))
+[2022.08.02-13.56.38:374][460]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.02-13.56.38:374][460]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.08.02-13.56.38:374][460]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.02-13.56.38:374][460]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.02-13.56.38:374][460]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 7 (Closing connection 11)
+[2022.08.02-13.56.38:374][460]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.08.02-13.56.38:375][460]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.02-14.14.23:787][632]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.100 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-15.03.38:482][431]LogHttp: Warning: 000009952BC7AF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.02-15.03.38:483][431]LogHttp: Warning: 000009952BC7AF00: request failed, libcurl error: 0 (No error)
+[2022.08.02-15.03.38:483][431]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x994fb0e0300 [can pipeline])
+[2022.08.02-15.03.38:483][431]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 1 (Re-using existing connection! (#12) with host datarouter.ol.epicgames.com)
+[2022.08.02-15.03.38:483][431]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.226.31.1) port 443 (#12))
+[2022.08.02-15.03.38:483][431]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.02-15.03.38:483][431]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.08.02-15.03.38:483][431]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.02-15.03.38:483][431]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.02-15.03.38:483][431]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 7 (Closing connection 12)
+[2022.08.02-15.03.38:483][431]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.08.02-15.03.38:483][431]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.02-15.14.23:666][352]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.057 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-16.14.23:748][ 73]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.081 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-17.14.23:778][794]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.083 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-18.14.23:837][515]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.075 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-19.14.23:815][237]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.090 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-20.14.23:677][956]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.082 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-21.14.23:808][679]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.078 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-22.14.23:586][400]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.073 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.02-23.14.23:844][120]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.078 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.03-00.14.23:744][841]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.080 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.03-01.14.23:776][561]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.093 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.03-02.14.23:765][282]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.087 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.03-03.14.23:810][  4]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.095 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.03-04.14.23:870][724]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.089 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.03-05.14.23:591][444]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.063 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.03-06.14.23:847][166]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.093 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.03-06.56.38:522][714]LogHttp: Warning: 000009952BC7AF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.03-06.56.38:522][714]LogHttp: Warning: 000009952BC7AF00: request failed, libcurl error: 0 (No error)
+[2022.08.03-06.56.38:522][714]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x994fb0e0930 [can pipeline])
+[2022.08.03-06.56.38:522][714]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 1 (Re-using existing connection! (#13) with host datarouter.ol.epicgames.com)
+[2022.08.03-06.56.38:522][714]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.233.176.243) port 443 (#13))
+[2022.08.03-06.56.38:522][714]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.03-06.56.38:522][714]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.08.03-06.56.38:522][714]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.03-06.56.38:522][714]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.03-06.56.38:522][714]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 7 (Closing connection 13)
+[2022.08.03-06.56.38:522][714]LogHttp: Warning: 000009952BC7AF00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.08.03-06.56.38:522][714]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.03-07.00.38:276][428]LogHttp: Warning: 000009952BC7A500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.08.03-07.00.38:276][428]LogHttp: Warning: 000009952BC7A500: request failed, libcurl error: 0 (No error)
+[2022.08.03-07.00.38:276][428]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x994fb0e0690 [can pipeline])
+[2022.08.03-07.00.38:276][428]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 1 (Re-using existing connection! (#14) with host datarouter.ol.epicgames.com)
+[2022.08.03-07.00.38:276][428]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.206.21.224) port 443 (#14))
+[2022.08.03-07.00.38:276][428]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.08.03-07.00.38:276][428]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.08.03-07.00.38:276][428]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.08.03-07.00.38:276][428]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.08.03-07.00.38:276][428]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 7 (Closing connection 14)
+[2022.08.03-07.00.38:276][428]LogHttp: Warning: 000009952BC7A500: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.08.03-07.00.38:276][428]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55CFC119-4121-0A40-DE46-91AD3A8DF2E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=36694ce74c1fe3f5f79ea3887bd58b5a%7C4e615b60df3b4d6a99f389fe45542a3a%7C099e0037-6814-4559-8340-6eb7d48eafee&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.08.03-07.14.23:778][886]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.090 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.03-08.14.23:884][620]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.058 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.03-09.14.23:743][365]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.088 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.03-10.14.23:680][ 85]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.080 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.03-11.14.23:648][808]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.087 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.03-12.14.23:839][539]LogDerivedDataCache: C:/Users/lc06/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.093 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.03-12.33.39:815][983]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.08.03-12.48.37:850][ 54]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-12.48.37:859][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.03-12.48.37:859][ 54]PIE: New page: PIE session: Minimal_Default (2022年8月4日 上午4:48:37)
+[2022.08.03-12.48.37:859][ 54]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.08.03-12.48.37:877][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017303s)
+[2022.08.03-12.48.37:877][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.017444s)
+[2022.08.03-12.48.37:877][ 54]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-12.48.37:877][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-12.48.37:878][ 54]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.08.03-12.48.37:897][ 54]LogPlayLevel: PIE: World Init took: (0.020384s)
+[2022.08.03-12.48.37:947][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.08.03-12.48.37:948][ 54]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.08.03-12.48.37:948][ 54]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-12.48.37:948][ 54]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-12.48.37:948][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-12.48.37:948][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-12.48.37:948][ 54]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-12.48.37:948][ 54]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-12.48.37:948][ 54]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-12.48.37:948][ 54]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-12.48.37:949][ 54]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-12.48.37:949][ 54]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-12.48.37:949][ 54]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-12.48.37:997][ 54]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-12.48.38:087][ 54]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek High Definition Audio)
+[2022.08.03-12.48.38:087][ 54]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-12.48.38:087][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-12.48.38:087][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-12.48.38:088][ 54]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.08.03-12.48.38:088][ 54]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.08.03-12.48.38:090][ 54]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.08.03-12.48.38:090][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.08.03-12.48.38:090][ 54]LogInit: FAudioDevice initialized.
+[2022.08.03-12.48.38:090][ 54]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2022.08.03-12.48.38:149][ 54]LogLoad: Game class is 'GameModeBase'
+[2022.08.03-12.48.38:151][ 54]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.08.03-20.48.38
+[2022.08.03-12.48.38:152][ 54]LogWorld: Bringing up level for play took: 0.002998
+[2022.08.03-12.48.38:156][ 54]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.08.03-12.48.38:161][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=28.508 Y=28.572 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:161][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-15.019 Y=7.428 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:162][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=13.364 Y=-3.380 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:162][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-25.669 Y=41.499 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:163][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=44.304 Y=36.380 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:163][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=26.599 Y=-18.944 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:164][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-43.867 Y=10.336 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:164][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=49.676 Y=23.765 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:165][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=34.455 Y=34.769 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:165][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=47.528 Y=38.864 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:166][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=5.716 Y=-37.062 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:166][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=19.571 Y=45.810 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:167][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=33.793 Y=8.015 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:167][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=39.240 Y=39.695 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:168][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-12.811 Y=-36.425 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:168][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-36.683 Y=-41.241 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:169][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=15.891 Y=-45.548 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:169][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-1.405 Y=-35.693 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:170][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-48.034 Y=25.788 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:170][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=27.417 Y=-21.670 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:171][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=22.943 Y=-46.929 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:171][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-31.334 Y=-0.833 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:172][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=42.055 Y=30.982 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:173][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=25.776 Y=-9.503 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:173][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=14.396 Y=-26.128 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:174][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=48.304 Y=13.987 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:174][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-26.936 Y=35.655 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:175][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=8.647 Y=-49.093 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:175][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=34.338 Y=31.967 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:176][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-29.541 Y=33.015 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:176][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=35.966 Y=22.370 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:177][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=0.324 Y=-21.958 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:177][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-2.377 Y=-14.569 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:177][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=49.255 Y=0.071 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:178][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=17.596 Y=-5.514 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:178][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=5.587 Y=40.135 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:178][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-5.238 Y=-23.099 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:178][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-4.195 Y=37.340 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:179][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=39.920 Y=14.636 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:179][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-15.101 Y=35.831 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:179][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=15.548 Y=18.934 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:180][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=2.782 Y=-2.092 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:180][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=18.034 Y=-13.054 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:180][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-1.649 Y=-31.395 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:180][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-8.553 Y=23.099 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:181][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-2.256 Y=12.052 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:181][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=36.926 Y=-16.979 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:181][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=18.358 Y=14.922 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:182][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-43.277 Y=-27.161 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:182][ 54]LogBlueprintUserMessages: [Minimal_Default_C_86] Translation: X=-34.803 Y=27.281 Z=5.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=0.020 Y=0.020 Z=0.020
+[2022.08.03-12.48.38:183][ 54]PIE: Server logged in
+[2022.08.03-12.48.38:184][ 54]PIE: Play in editor total start time 0.326 seconds.
+[2022.08.03-12.48.39:503][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 10.336388
+[2022.08.03-12.48.39:503][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 8.014999
+[2022.08.03-12.48.39:503][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 1
+[2022.08.03-12.48.39:504][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 8.647285
+[2022.08.03-12.48.39:504][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 5.715538
+[2022.08.03-12.48.39:504][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 2
+[2022.08.03-12.48.39:505][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -23.098516
+[2022.08.03-12.48.39:505][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -23.098516
+[2022.08.03-12.48.39:505][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 3
+[2022.08.03-12.48.39:505][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -12.811077
+[2022.08.03-12.48.39:505][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -12.811077
+[2022.08.03-12.48.39:505][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 4
+[2022.08.03-12.48.39:505][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -27.161455
+[2022.08.03-12.48.39:505][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -41.240574
+[2022.08.03-12.48.39:505][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 5
+[2022.08.03-12.48.39:505][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -43.276562
+[2022.08.03-12.48.39:505][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -43.276562
+[2022.08.03-12.48.39:505][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 6
+[2022.08.03-12.48.39:505][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -31.394886
+[2022.08.03-12.48.39:505][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -35.693146
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 7
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -1.648651
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -1.648651
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 8
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -2.376904
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -2.376904
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 9
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 7.427513
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -0.833141
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 10
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -15.018749
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -15.018749
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 11
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -2.092075
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -21.958113
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 12
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 2.78231
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 2.78231
+[2022.08.03-12.48.39:506][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 13
+[2022.08.03-12.48.39:507][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -16.979301
+[2022.08.03-12.48.39:507][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -18.944073
+[2022.08.03-12.48.39:507][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 14
+[2022.08.03-12.48.39:507][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 15.89122
+[2022.08.03-12.48.39:507][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 15.89122
+[2022.08.03-12.48.39:507][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 15
+[2022.08.03-12.48.39:507][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -26.12834
+[2022.08.03-12.48.39:507][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -49.093414
+[2022.08.03-12.48.39:507][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 16
+[2022.08.03-12.48.39:507][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 14.396431
+[2022.08.03-12.48.39:507][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 14.396431
+[2022.08.03-12.48.39:507][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 17
+[2022.08.03-12.48.39:507][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -21.670092
+[2022.08.03-12.48.39:507][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -46.92942
+[2022.08.03-12.48.39:507][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 18
+[2022.08.03-12.48.39:507][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 27.416595
+[2022.08.03-12.48.39:507][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 27.416595
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 19
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 25.776077
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 18.033638
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 20
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -3.38036
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -5.513573
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 21
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 13.364075
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 13.364075
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 22
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -9.503269
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -9.503269
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 23
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 36.926292
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 36.926292
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 24
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 49.25544
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 49.25544
+[2022.08.03-12.48.39:508][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 25
+[2022.08.03-12.48.39:509][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 18.357719
+[2022.08.03-12.48.39:509][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 18.357719
+[2022.08.03-12.48.39:509][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 26
+[2022.08.03-12.48.39:510][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 33.014763
+[2022.08.03-12.48.39:510][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 27.280937
+[2022.08.03-12.48.39:510][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 27
+[2022.08.03-12.48.39:510][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -8.552826
+[2022.08.03-12.48.39:510][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -8.552826
+[2022.08.03-12.48.39:510][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 28
+[2022.08.03-12.48.39:510][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 25.787994
+[2022.08.03-12.48.39:510][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 10.336388
+[2022.08.03-12.48.39:510][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 29
+[2022.08.03-12.48.39:510][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -48.033928
+[2022.08.03-12.48.39:510][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -48.033928
+[2022.08.03-12.48.39:510][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 30
+[2022.08.03-12.48.39:510][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 18.933807
+[2022.08.03-12.48.39:510][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 12.052368
+[2022.08.03-12.48.39:510][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 31
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 15.548325
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 15.548325
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 32
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -15.101028
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -25.668621
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 33
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 35.654785
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 33.014763
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 34
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -26.93553
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -26.93553
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 35
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 37.339951
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 37.339951
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 36
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -15.101028
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] -15.101028
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 37
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 5.586781
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 5.586781
+[2022.08.03-12.48.39:511][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 38
+[2022.08.03-12.48.39:512][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 31.966888
+[2022.08.03-12.48.39:512][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 30.982483
+[2022.08.03-12.48.39:512][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 39
+[2022.08.03-12.48.39:512][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 39.919815
+[2022.08.03-12.48.39:512][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 39.919815
+[2022.08.03-12.48.39:512][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 40
+[2022.08.03-12.48.39:512][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 28.571823
+[2022.08.03-12.48.39:512][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 22.369621
+[2022.08.03-12.48.39:512][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 41
+[2022.08.03-12.48.39:512][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 28.507759
+[2022.08.03-12.48.39:512][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 28.507759
+[2022.08.03-12.48.39:512][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 42
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 23.764732
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 13.987099
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 43
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 49.675774
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 49.675774
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 44
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 39.239525
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 34.454552
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 45
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 45.810196
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 31.966888
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 46
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 19.571396
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 19.571396
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 47
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 38.864395
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 38.864395
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 48
+[2022.08.03-12.48.39:513][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 44.303772
+[2022.08.03-12.48.39:514][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 44.303772
+[2022.08.03-12.48.39:514][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 49
+[2022.08.03-12.48.39:514][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 39.239525
+[2022.08.03-12.48.39:514][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 39.239525
+[2022.08.03-12.48.39:514][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] 50
+[2022.08.03-12.48.39:514][ 84]LogBlueprintUserMessages: [Minimal_Default_C_86] Begin Draw
+[2022.08.03-12.59.28:347][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-12.59.28:347][732]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.08.03-12.59.28:348][732]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-12.59.28:349][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-12.59.28:396][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-12.59.28:398][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-12.59.28:407][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-12.59.28:408][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.08.03-12.59.28:410][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.08.03-12.59.28:419][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.08.03-12.59.28:472][733]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.08.03-12.59.33:059][799]LogSlate: Took 0.017359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.03-12.59.33:859][808]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2022.08.03-12.59.33:985][808]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
